@@ -1,6 +1,6 @@
 # 介绍
 
-最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
+V2Ray 一键安装脚本 &amp; 管理脚本
 
 # 特点
 
@@ -117,6 +117,4 @@ Usage: v2ray [options]... [args]...
    h, help                                         显示此帮助界面
 
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
-反馈问题) https://github.com/jinyin3842/v2ray/issues
-文档(doc) https://jinyin3842.com/v2ray/v2ray-script/
 ```
