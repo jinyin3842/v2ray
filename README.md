@@ -43,7 +43,13 @@ V2Ray 一键安装脚本 &amp; 管理脚本
 # 脚本说明
 
 [V2Ray 一键安装脚本](wget https://github.com/jinyin3842/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l)
+安装
 
+系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
+
+执行如下命令：
+
+bash <(wget -qO- -o- https://github.com/jinyin3842/v2ray/raw/master/install.sh)
 # 搭建教程
 
 [V2Ray搭建详细图文教程](https://github.com/jinyin3842/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
